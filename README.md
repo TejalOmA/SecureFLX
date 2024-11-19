@@ -42,14 +42,14 @@ Python 3.8+
 
 2. Install dependencies:
 
-```plaintext
+```bash
 pip install -r requirements.txt
 ```
 
 3. Start Jupyter Notebook:
 
 Type
-```plaintext
+```bash
 jupyter notebook
 ```
 in command prompt. 
@@ -64,8 +64,12 @@ Open the notebook (dps_package_final (1) (1).ipynb) in your browser and run the 
 3. The server aggregates encrypted updates and refines the global model.
 4. Results are visualized and stored in the results/ folder.
 
+---
+
 ## 🛡️ Future Work
+
 -**Bootstrapping Techniques**: Maintain ciphertext integrity in longer training sequences.
 -**Gradient Compression**: Optimize communication overhead.
 -**Quantum Encryption**: Explore quantum-resistant algorithms for future-proofing.
 
+---
