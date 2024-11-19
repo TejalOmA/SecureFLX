@@ -36,8 +36,8 @@ Python 3.8+
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/TejalOmA/SecureFLX.git
+   cd SecureFLX
    ```
 
 2. Install dependencies:
