@@ -53,7 +53,7 @@ Type
 jupyter notebook
 ```
 in command prompt. 
-Open the notebook (dps_package_final (1) (1).ipynb) in your browser and run the cells.
+Open the notebook (secureflx.ipynb) in your browser and run the cells.
 
 2. Run on Google Colab
 
